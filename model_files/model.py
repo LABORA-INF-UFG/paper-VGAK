@@ -1,9 +1,9 @@
 import time
 import json
 from docplex.mp.model import Model
-import networkx as nx
-import matplotlib.pyplot as plt
-from matplotlib.lines import Line2D
+# import networkx as nx
+# import matplotlib.pyplot as plt
+# from matplotlib.lines import Line2D
 
 
 class Path:
